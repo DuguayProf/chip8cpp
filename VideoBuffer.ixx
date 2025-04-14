@@ -1,3 +1,4 @@
+// Stephane Duguay
 export module VideoBuffer;
 
 export import IVideoBuffer;
